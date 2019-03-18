@@ -3,11 +3,11 @@
 ### Quickstart guide
 Clone the repo
 ```bash
-git clone https://github.com/georgegach/average-face-generation.git
+git clone https://github.com/manuarora700/average-face-generation.git
 ```
 Move to directory and execute run.py with appropriate parameters
 ```bash
-cd ./face-average
+cd ./average-face-generation
 python ./run.py  -i "datasets/us-mp/president" -w -wt 200
 ```
 This script will open a ```debug window``` showing the progress of the execution with 200ms frames, generate ```.ff``` files for every image and output average face as ```./results/us-mp-president.jpg```

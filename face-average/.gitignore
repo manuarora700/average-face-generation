@@ -1,0 +1,8 @@
+# Ignore these 
+datasets/*
+results/*
+*/__pycache__
+
+
+# Include these 
+
